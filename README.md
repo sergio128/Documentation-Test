@@ -65,21 +65,14 @@ You have 2 options to add a connection which you will find by clicking the Add b
 
 The following information must be entered:
 
-Connection Name
-
-Type: MS SQL Server / Oracle SQL Server / MySQL Server
-
-User Name
-
-Password
-
-Server Name
-
-Port
-
-Database Name
-
-On Premises Resource
+* Connection Name
+* Type: MS SQL Server / Oracle SQL Server / MySQL Server
+* User Name
+* Password
+* Server Name
+* Port
+* Database Name
+* On Premises Resource
 
 
 **Add PartStore Connection**
@@ -87,21 +80,14 @@ On Premises Resource
 The following information must be entered:
 Connection Name
 
-User Name
-
-Password
-
-Nonce
-
-Web Service Url
-
-Web Service Hostname
-
-Port
-
-Declare Code
-
-On Premises Resource 
+* User Name
+* Password
+* Nonce
+* Web Service Url
+* Web Service Hostname
+* Port
+* Declare Code
+* On Premises Resource 
 
 
 ### Data Sets
